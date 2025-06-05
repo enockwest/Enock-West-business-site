@@ -1,0 +1,7 @@
+# robots.txt for Enock West's Business Site
+# GitHub Pages site: https://enockwest.github.io/Enock-West-business-site/
+
+User-agent: *
+Allow: /
+
+Sitemap: https://enockwest.github.io/Enock-West-business-site/sitemap.xml
